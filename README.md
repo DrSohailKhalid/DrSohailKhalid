@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DrSohailKhalid
-- 👀 I’m interested in research collaborations and sharing ideas for the betterment of humanity. 
-- 🌱 I’m currently learning the role of AI in healthcare systems and Electromagnetics and RF Engineering. 
-- 💞️ I’m looking to collaborate on research areas of AI in healthcare. 
-- 📫 How to reach me engr.sohailkhalid@gmail.com
+- 👋 Hi, I’m Sohail Khalid
+- 👀 I am enthusiastic about forming research collaborations and fostering the exchange of ideas to contribute meaningfully to the betterment of humanity.
+- 🌱 Currently, I am immersed in studying the roles of AI in healthcare systems and delving into the realm of RF Engineering.
+- 💞️  I am actively seeking opportunities for collaboration in research areas that explore the transformative potential of AI in healthcare.
+- 📫 Reach me at engr.sohailkhalid@gmail.com
 
 <!---
 DrSohailKhalid/DrSohailKhalid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
